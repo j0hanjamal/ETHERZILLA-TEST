@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x98706d04f3914ab7c981d049c44ce2bab7b8a8cd",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0xf707d42e3313f1ec22cc27a4e501ad270aaf3d09f84435e72396d71382a71266",
+  "NETWORK": {
+    "NAME": "Etherzilla",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "EtherzillaTest",
+  "SYMBOL": "EZ3.0",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/etherzillatest3-0",
+  "SHOW_BACKGROUND": true
+}
